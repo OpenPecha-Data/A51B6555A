@@ -1,0 +1,25 @@
+segment_sources:
+  P1F641DF9:
+    type: origin_type
+    relation: translation
+    language: en
+  PCF5BC8F9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  209ab4ff4a6a4a7e8a06f7b64aca340e:
+    P1F641DF9: b4a3665748514a2b9b10624815f7d79c
+    PCF5BC8F9: 3875f656c2b14687953ddb236f19a368
+  55890475cff046419333e2ad0ba22b01:
+    P1F641DF9: f3a20a541c8e4e959e5bc03ddb5d1710
+    PCF5BC8F9: e864f75052c646679638cc4fdd202264
+  48f481f51a97445ebc600ddfd56ecd19:
+    P1F641DF9: df552d0b20e04887be4a25c033797df3
+    PCF5BC8F9: 36bf60e15ad14a10ae7a919321d292f6
+  49362860f81c4e8eb8df06cfaa0888c8:
+    P1F641DF9: ee931984cc974bcf9275ef87c78649b6
+    PCF5BC8F9: e0632aa7410b449da9878f6f4ea66d75
+  57768c00a0d74e32ac5073ea84004376:
+    P1F641DF9: 1b4ed19835104f12a282cf7269237c27
+    PCF5BC8F9: b60552f00eee497f9751af84749ee6b9
